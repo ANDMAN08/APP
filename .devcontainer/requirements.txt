@@ -1,0 +1,4 @@
+pandas>=1.5
+streamlit>=1.30
+matplotlib>=3.7
+streamlit-survey>=0.2.0
